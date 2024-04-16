@@ -1,7 +1,9 @@
 # Named Entity Recognition (NER) in Farsi
-Producing a new dataset for Named Entity Recognition task with 21 classes for Persian.
+A new Persian Named Entity Recognition dataset with 21 classes is produced.
  
-Training QaNER model on the 21-class Named-entity recognition dataset for Persian.
+QaNER model has been trained on the 21-class Named-entity recognition dataset for Persian.
+
+## Dataset Details
 
 Predicts NER tags:
 
