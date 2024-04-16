@@ -40,10 +40,11 @@ Predicts NER tags:
 | MONEY         | money|
 
 
+## Sample Dataset
+We have included a sample of the produced dataset. This sample can be used to understand the structure and format of the dataset.
 
-
-
-
+## Training QaNER
+We have provided the code for training the QaNER model using this dataset.
 
 
 Based on [QANER](https://www.semanticscholar.org/paper/QaNER%3A-Prompting-Question-Answering-Models-for-Liu-Xiao/b159dffadb69940e14693e812bdaa32e3957717f) and Pars-Bert.
