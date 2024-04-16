@@ -1,5 +1,5 @@
 # Named Entity Recognition (NER) in Farsi
-This is the 21-class Named-entity recognition model for Persian.
+Training QaNER model on the 21-class Named-entity recognition dataset for Persian.
 
 Predicts NER tags:
 
