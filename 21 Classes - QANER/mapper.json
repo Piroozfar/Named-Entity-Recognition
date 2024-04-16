@@ -1,0 +1,23 @@
+{
+    "PERSON": "person",
+    "ORGANIZATION": "organization",
+    "NORP": "norp",
+    "LOCATION": "location",
+    "FACILITY": "facility",
+    "RELIGIOUS_ACT": "religious_act",
+    "RELIGIOUS_CONCEPT": "religious_concept",
+    "RELIGIOUS_TEXT": "religious_text",
+    "GPE": "gpe",
+    "LAW": "law",
+    "EVENT": "event",
+    "LANGUAGE": "language",
+    "PRODUCT": "product",
+    "WORK_OF_ART": "work_of_art",
+    "CARDINAL": "cardinal",
+    "ORDINAL": "ordinal",
+    "QUALITY": "quality",
+    "MONEY": "money",
+    "PERCENT": "percent",
+    "TIME": "time",
+    "DATE": "date"
+}
