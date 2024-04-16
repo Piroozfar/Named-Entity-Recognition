@@ -1,6 +1,7 @@
 # NSURL-2019 task 7: Named Entity Recognition (NER) in Farsi
 This is the 7-class Named-entity recognition model for Persian that ships with [Flair](https://github.com/flairNLP/flair/).
-Trained model has been published on [HuggingFace](https://huggingface.co/PooryaPiroozfar/Flair-Persian-NER)
+
+The trained model has been published on [HuggingFace](https://huggingface.co/PooryaPiroozfar/Flair-Persian-NER)
 
 F1-Score: **90.33** (NSURL-2019)
 
