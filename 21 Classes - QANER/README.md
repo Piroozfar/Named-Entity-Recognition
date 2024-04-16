@@ -4,7 +4,11 @@ A new Persian Named Entity Recognition dataset with 21 classes is produced.
 QaNER model has been trained on the 21-class Named-entity recognition dataset for Persian.
 
 ## Dataset Details
-
+**Language**: Persian
+**Number of Classes**: 21
+**Number of Tokens**: 733048
+**Number of Sentences**: 23880
+**Annotation**: Annotated for Named Entity Recognition
 Predicts NER tags:
 
 | **tag**                        | **meaning** |
